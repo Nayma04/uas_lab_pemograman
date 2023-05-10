@@ -2,7 +2,7 @@
 Anggota 1
 Nama: Fara Ardila
 Nim: 2208108010022
-Username GITHUB:
+Username GITHUB: FaraArdila
 
 Anggota 2
 Nama: Nayma Alaydia
